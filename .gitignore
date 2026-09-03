@@ -1,0 +1,16 @@
+# secrets - NEVER commit these
+.env
+*.key
+
+# python junk
+.venv/
+__pycache__/
+*.pyc
+
+# my practice/scratch files
+step*.py
+user_*.py
+*_demo.py
+case_bug.py
+search*.py
+in_demo.py
